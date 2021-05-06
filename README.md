@@ -14,6 +14,8 @@ Adaptation for different screens is minimal, there is no mobile version.<br />
 
   - HTML5, CSS
 
+## ![learn-to-learn](./demo.gif)
+
 ---
 
 **For suggestions and errors:**
